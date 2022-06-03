@@ -12,7 +12,7 @@
 	
 		$json_data = json_encode([
 				"content" => "",
-				"username" => "AWarn3 Logs",
+				"username" => "Imperial Community",
 				"avatar_url" => "https://g4p.org/awarn2/awarn3_chatlogo.png",
 				"embeds" => [
 						[
